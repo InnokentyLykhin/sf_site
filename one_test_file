@@ -1,0 +1,13 @@
+<!--This file creating empty html sheet -->
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <title>Тестовый Файл</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+Коллективная работа в GitHub
+<img src="./github-logo.png">  
+</body>
+</html>
